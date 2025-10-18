@@ -1,0 +1,41 @@
+To: Meesho Growth & Reseller Ops Leadership  
+From: [DEEKSHITHA BAPATHU], 
+Date: October 18, 2025  
+Subject: Proposal — Reseller Performance Optimization Engine to Unlock ₹2.10 Cr/month Net GMV
+
+### Objective
+Activate high-potential dormant resellers and monetize under-leveraged social influencers to drive **profitable, FCF-positive GMV growth** — aligned with Meesho’s 2024–25 strategic pillar: “Deepening Reseller Engagement.”
+
+### Key Insight
+Analysis of 5,000 resellers reveals:
+- **14.3% are “Ghost Resellers”**: High historical GMV (≥₹5,000) but inactive (>30 days)  
+- **15.1% are “Social Catalysts”**: High sharing (≥50 shares) but low GMV → under-monetized  
+- **17.1% are “Niche Specialists”**: Focused in Home/Beauty — fastest-growing categories  
+
+These segments represent a **₹2.12 Cr/month GMV opportunity**.
+
+### Proposed Interventions
+| Segment | Intervention | Cost | Expected GMV Uplift |
+|--------|-------------|------|---------------------|
+| Ghost Reseller | ₹20 cashback + WhatsApp nudge (“Your top buyer just purchased!”) | ₹0.021 Cr | ₹0.86 Cr |
+| Social Catalyst | “Top Reseller” badge + early access to trending catalog | ₹0 | ₹0.75 Cr |
+| Niche Specialist | Category-specific training (“How to sell more Home products”) | ₹0 | ₹0.51 Cr |
+| **Total** | | **₹0.021 Cr** | **₹2.12 Cr** |
+
+**Net Impact**: **₹2.10 Cr/month** at near-zero marginal cost.
+
+### Validation Plan
+- **A/B Test**: 2,400 Ghost Resellers (treatment) vs. 2,400 (control)  
+- **Primary Metric**: Reseller-Led GMV per reseller (30-day lift ≥8%)  
+- **Guardrails**: No increase in returns (>2%) or support tickets (>5%)  
+- **ROI Positive**: (GMV uplift × 10% margin) > incentive cost
+
+### Why This Matters
+- Fully leverages **existing infrastructure** (cashback wallet, WhatsApp, badges)  
+- Directly supports **Meesho’s FCF-first philosophy** (Letter from CEO, p. 3)  
+- Scalable to full reseller base → **₹2.10 Cr/month net GMV**
+
+### Ask
+Approve pilot budget of **₹2.1 Lakh** for 30-day A/B test. If successful, scale to full reseller base.
+
+Appendix: Full analysis, SQL, and dashboard available in project repository.
